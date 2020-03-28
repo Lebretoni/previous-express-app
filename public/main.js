@@ -1,3 +1,4 @@
+//We worked on this as a group; Gardner.
 const taskItem = document.querySelectorAll(".toDoList")
 document.getElementById('removeAll').onclick = removeAll;
 document.getElementById('removeCompleted').onclick = removeCompleted;
